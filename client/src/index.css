@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+}
+.page{
+  background-image: url('./assets/bg1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
